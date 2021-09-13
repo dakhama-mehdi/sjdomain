@@ -1,0 +1,2 @@
+# sjdomain
+Secure join domain
