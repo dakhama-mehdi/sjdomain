@@ -7,7 +7,11 @@
 * Can be used from any computer in the domain from CMD or PS1 without administrator terminal
 
 # More information : 
-* This is based 
+* This is based C# scirpt that i have simplified and improved, the orginal script is used by "Ryan Ephgrave"
+* I'm also used the "François-Xavier Cat" post and script :
+link to post : https://lazywinadmin.com/2020/06/powershell-offline_domain_join_csharp.html
+link to script : https://github.com/lazywinadmin/PowerShell/blob/master/AD-COMPUTER-New-ADDomainJoin/New-ADDomainJoin.ps1
+link to Ryan script : https://gist.github.com/Ryan2065/79838b78643d2311d60cb6147e3b87bf
 
 
 # What's News :
