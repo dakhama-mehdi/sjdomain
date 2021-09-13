@@ -51,7 +51,17 @@ sjdomain.exe "PC-1,PC-2,PC-3"
 sjdomain.exe c:\myfile-namecomputer.txt
 
 * Last phase :
+To request an offline domain join for a local computer run the following command at an elevated command prompt:
 
+# enter simply the patch to file, the computer will be restart and rename
+sjdomain "c:\path-to-file\file-1"
 
+#this command will chose from folder the file like current computer name, and add it to domain, for example if local machine named "PC-1", the tool will search the file named 
+"PC-1" from folder
 
+sjdomain.exe add "C:\folder-contains-offline-file"
 
+this is link to how to integre SJDomain to MDT or SCCM
+
+# Thanks :
+Matthieu Souin
