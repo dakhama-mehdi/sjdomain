@@ -53,7 +53,7 @@ sjdomain.exe c:\myfile-namecomputer.txt
 * Last phase :
 To request an offline domain join for a local computer run the following command at an elevated command prompt:
 
-# enter simply the patch to file, the computer will be restart and rename
+#enter simply the patch to file, the computer will be restart and rename
 sjdomain "c:\path-to-file\file-1"
 
 #this command will chose from folder the file like current computer name, and add it to domain, for example if local machine named "PC-1", the tool will search the file named 
