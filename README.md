@@ -61,7 +61,7 @@ sjdomain "c:\path-to-file\file-1"
 
 sjdomain.exe add "C:\folder-contains-offline-file"
 
-this is link to how to integre SJDomain to MDT or SCCM
+this is link to how to integre SJDomain with MDT or SCCM
 
 # Thanks :
 Matthieu Souin
