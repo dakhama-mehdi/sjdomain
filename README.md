@@ -22,7 +22,9 @@ link to Ryan script : https://gist.github.com/Ryan2065/79838b78643d2311d60cb6147
 
 # How tu use :
 
-This work on twi phases :
+This work on two
+
+phases :
 
 * First phase : create a computer account in Active Directory from list or name and chose option 
 Exemple : 
@@ -62,6 +64,15 @@ sjdomain "c:\path-to-file\file-1"
 sjdomain.exe add "C:\folder-contains-offline-file"
 
 this is link to how to integre SJDomain with MDT or SCCM
+
+* Help :
+#you can get help, by enter command "?" or "help"
+
+example :
+
+sdjoin.exe /?
+
+sdjoin.exe /help
 
 # Thanks :
 Matthieu Souin
