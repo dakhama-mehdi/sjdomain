@@ -22,9 +22,7 @@ link to Ryan script : https://gist.github.com/Ryan2065/79838b78643d2311d60cb6147
 
 # How tu use :
 
-This work on two
-
-phases :
+This work on two phases :
 
 * First phase : create a computer account in Active Directory from list or name and chose option 
 Exemple : 
