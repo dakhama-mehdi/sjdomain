@@ -41,24 +41,24 @@ another possible option :
 
 you can custom option by using "-" or respect order example :
 
-# this two command create a account computer on specific OU and save the file in directory c:\folder
+* this two command create a account computer on specific OU and save the file in directory c:\folder
 sjdomain.exe "pc-1" c:\folder\ "ou=test,DC=info,DC=prive"  
 
 sjdomain.exe "pc-1" -Ou "ou=test,DC=info,DC=prive"  -Path c:\folder\  
 
-# you can create more computer separated by ","
+* you can create more computer separated by ","
 sjdomain.exe "PC-1,PC-2,PC-3"
 
 # create computer from list : 
 sjdomain.exe c:\myfile-namecomputer.txt
 
-* Last phase :
+# Last phase :
 To request an offline domain join for a local computer run the following command at an elevated command prompt:
 
-#enter simply the patch to file, the computer will be restart and rename
+* enter simply the patch to file, the computer will be restart and rename
 sjdomain "c:\path-to-file\file-1"
 
-#this command will chose from folder the file like current computer name, and add it to domain, for example if local machine named "PC-1", the tool will search the file named 
+* this command will chose from folder the file like current computer name, and add it to domain, for example if local machine named "PC-1", the tool will search the file named 
 "PC-1" from folder
 
 sjdomain.exe add "C:\folder-contains-offline-file"
