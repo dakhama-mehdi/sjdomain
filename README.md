@@ -67,7 +67,7 @@ this is link to how to integre SJDomain with MDT or SCCM
 
 * Help :
 
-#you can get help, by enter command "?" or "help"
+# you can get help, by enter command "?" or "help"
 
 example :
 
