@@ -1,11 +1,11 @@
 
 # SJDomain
-![sjdomain-pub (1)](https://user-images.githubusercontent.com/49924401/137764614-86234f7e-6b47-4193-898d-e1447d6338a3.gif)
-
 * Secure Join Domain is a Free tool based on onlline domain join method (ODJ) that allow to join a machine to an Active Directory without network connectivity and password
 * This is a easy and secure way to allowing non-administrator users limited access based on (JEA) prciniple
 * No need to delegated add object computer for your IT
 * Can be used from any computer in the domain from CMD or PS1 without administrator terminal
+
+![sjdomain-pub (1)](https://user-images.githubusercontent.com/49924401/137764614-86234f7e-6b47-4193-898d-e1447d6338a3.gif)
 
 # More information : 
 * This is based C# scirpt that i have simplified and improved, the orginal script is used by "Ryan Ephgrave"
