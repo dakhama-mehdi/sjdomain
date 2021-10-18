@@ -18,6 +18,10 @@ link to Ryan script : https://gist.github.com/Ryan2065/79838b78643d2311d60cb6147
 
 English integration video with MDT : https://youtu.be/pVk3V8MjxYI
 
+French Video integration with MDT : https://youtu.be/8MGSQ4DWgt0
+
+English PDF integration with MDT : https://www.mehdi-dakhama.com/post/safe-automatically-domain-join-computer-sccm-mdt-os
+
 # What's News :
 * Create computer from list .txt
 * The domain will be automatically choose, and use current user domain
