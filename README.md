@@ -41,15 +41,15 @@ another possible option :
 
 you can custom option by using "-" or respect order example :
 
-#this two command create a account computer on specific OU and save the file in directory c:\folder
+# this two command create a account computer on specific OU and save the file in directory c:\folder
 sjdomain.exe "pc-1" c:\folder\ "ou=test,DC=info,DC=prive"  
 
 sjdomain.exe "pc-1" -Ou "ou=test,DC=info,DC=prive"  -Path c:\folder\  
 
-#you can create more computer separated by ","
+# you can create more computer separated by ","
 sjdomain.exe "PC-1,PC-2,PC-3"
 
-#create computer from list : 
+# create computer from list : 
 sjdomain.exe c:\myfile-namecomputer.txt
 
 * Last phase :
