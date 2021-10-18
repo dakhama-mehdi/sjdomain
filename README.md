@@ -26,7 +26,7 @@ link to Ryan script : https://gist.github.com/Ryan2065/79838b78643d2311d60cb6147
 
 This work on two phases :
 
-* First phase : create a computer account in Active Directory from list or name and chose option 
+# First phase : create a computer account in Active Directory from list or name and chose option 
 Exemple : 
 
 * this sample comand will provision a computer account named PC-1 on AD in default OU "Computer" and save file in local folder named "Approv"
@@ -52,7 +52,7 @@ sjdomain.exe "PC-1,PC-2,PC-3"
 * create computer from list : 
 sjdomain.exe c:\myfile-namecomputer.txt
 
-# Last phase :
+# Last phase : Add computer 
 To request an offline domain join for a local computer run the following command at an elevated command prompt:
 
 * enter simply the patch to file, the computer will be restart and rename
