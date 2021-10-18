@@ -16,6 +16,7 @@ link to script : https://github.com/lazywinadmin/PowerShell/blob/master/AD-COMPU
 
 link to Ryan script : https://gist.github.com/Ryan2065/79838b78643d2311d60cb6147e3b87bf
 
+English integration video with MDT : https://youtu.be/pVk3V8MjxYI
 
 # What's News :
 * Create computer from list .txt
