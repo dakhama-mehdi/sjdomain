@@ -29,7 +29,7 @@ This work on two phases :
 * First phase : create a computer account in Active Directory from list or name and chose option 
 Exemple : 
 
-#this sample comand will provision a computer account named PC-1 on AD in default OU "Computer" and save file in local folder named "Approv"
+* this sample comand will provision a computer account named PC-1 on AD in default OU "Computer" and save file in local folder named "Approv"
 
 sjdomain.exe "PC-1"  
 
@@ -49,7 +49,7 @@ sjdomain.exe "pc-1" -Ou "ou=test,DC=info,DC=prive"  -Path c:\folder\
 * you can create more computer separated by ","
 sjdomain.exe "PC-1,PC-2,PC-3"
 
-# create computer from list : 
+* create computer from list : 
 sjdomain.exe c:\myfile-namecomputer.txt
 
 # Last phase :
